@@ -1,0 +1,15 @@
+Hello Guys,
+
+We are learning spaCy , a cool nlp library.
+
+Some of its Features are:-
+
+Easy deep learning integration.
+Non-destructive tokenization.
+Export to numpy data arrays.
+Named entity recognition.
+Support for 51+ languages.
+Pre-trained word vectors.
+State-of-the-art speed.
+Part-of-speech tagging.
+Robust, rigorously evaluated accuracy and many more
