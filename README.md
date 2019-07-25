@@ -1,6 +1,8 @@
 # spacy-Tutorial
 #Installation
 
+For learning Basics of Spacy along with code go to https://www.presentslide.in/2019/07/implementing-spacy-advanced-natural-language-processing.html
+
 1.Download it from :- https://pypi.org/project/spacy/ 
 use the following command for unzipping it :-  
 python setup.py install  
