@@ -1,7 +1,13 @@
 # spacy-Tutorial
-#Installation
 
-For learning Basics of Spacy along with code go to https://www.presentslide.in/2019/07/implementing-spacy-advanced-natural-language-processing.html
+
+# For learning Basics of sPacy along with code go to
+-> https://www.presentslide.in/2019/07/implementing-spacy-advanced-natural-language-processing.html
+
+# Text Summarization with sPacy
+-> https://www.presentslide.in/2019/08/text-summarization-python-spacy-library.html
+
+## Installation
 
 1.Download it from :- https://pypi.org/project/spacy/ 
 use the following command for unzipping it :-  
