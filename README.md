@@ -1,10 +1,10 @@
 # spacy-Tutorial
 
 
-# For learning Basics of sPacy along with code go to
+# For learning Basics of spaCy along with code go to
 -> https://www.presentslide.in/2019/07/implementing-spacy-advanced-natural-language-processing.html
 
-# Text Summarization with sPacy
+# Text Summarization with spaCy
 -> https://www.presentslide.in/2019/08/text-summarization-python-spacy-library.html
 
 ## Installation
